@@ -27,9 +27,9 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
-    "rxjs": "^6.5.4",
-    "tslib": "^1.10.0",
-    "zone.js": "^0.10.2"
+    "rxjs": "^6.6.7",
+    "tslib": "^1.14.1",
+    "zone.js": "^0.14.10"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.21",
